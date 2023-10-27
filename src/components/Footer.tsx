@@ -13,8 +13,8 @@ export default function Footer() {
                             <div className="footer--container">
                                 <div className="footer--text">
                                     <h1>Jan Blaška Travel Diary</h1>
-                                    <div>
-                                        <div className="footer--links">
+                                    <div className="footer--links">
+                                        <div className="footer--navigation">
                                             <Link to="/about-me">About me</Link>
                                             <Link to="#">Destinations</Link>
                                             <Link to="/contact">Contact</Link>
@@ -22,10 +22,10 @@ export default function Footer() {
                                         <div className="footer--get-connected">
                                             <p>Do not hesitate to connect with me on social media!</p>
                                             <div className="footer--social-media">
-                                                <a href="http://www.facebook.com">
+                                                <a href="https://www.facebook.com/honzablaska">
                                                     <img src="/footer/facebook.png" alt="facebook icon" />
                                                 </a>
-                                                <a href="http://www.instagram.com">
+                                                <a href="https://www.instagram.com/honzablaska/">
                                                     <img src="/footer/instagram.png" alt="instagram icon"/>
                                                 </a>
                                             </div>
