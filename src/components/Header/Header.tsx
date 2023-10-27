@@ -34,8 +34,8 @@ export default function Header() {
                     {isMobile && 
                         <button className="nav--hamburger" onClick={() => setMenuIsOpen(!menuIsOpen)}>
                             {menuIsOpen
-                                ? (<img src="/close.png" alt="close icon to close navigation menu for mobile" /> ) 
-                                : (<img src="/hamburger.png" alt="hamburger icon as navigation menu for mobile" /> ) 
+                                ? (<img src="/navbar/close.png" alt="close icon to close navigation menu for mobile" /> ) 
+                                : (<img src="/navbar/hamburger.png" alt="hamburger icon as navigation menu for mobile" /> ) 
                             }
                         </button>
                     }
@@ -107,7 +107,7 @@ export default function Header() {
                     }
                     <div className="nav--languages">
                         <button>
-                            <img src="/english-flag.png" alt="button set english language" />
+                            <img src="/navbar/english-flag.png" alt="button set english language" />
                         </button>
                         {/*<button>
                             <img src="/czech-flag.png" alt="button set czech language" />

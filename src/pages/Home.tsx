@@ -6,7 +6,9 @@ export default function Home() {
     return (
         <div className='home-page'>
 
+            <video src={videoBg} autoPlay loop muted />
             <div className='overlay'></div>
+
             <div className='home--header'>
                 <div className='home--header-myname'>
                     <h2>Jan</h2>
@@ -17,7 +19,6 @@ export default function Home() {
                 </h3>
                 <button className='home--header-btn'>Explore</button>
             </div>
-            <video src={videoBg} autoPlay loop muted />
 
             <div className="section">
                 <div className="container">
@@ -30,6 +31,7 @@ export default function Home() {
                     <Map />
                 </div>
             </div>
+
             <div className="section bg-orange">
                 <div className="container">
                     <div className="home--citation">
@@ -38,6 +40,7 @@ export default function Home() {
                     </div>
                 </div>
             </div>
+
             <div className="section">
                 <div className="container">
                     <div className="section--latest-adventures">
@@ -62,6 +65,7 @@ export default function Home() {
                     </div>
                 </div>
             </div>
+
         </div>
     )
 }
