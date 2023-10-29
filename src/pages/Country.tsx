@@ -1,5 +1,5 @@
 import { useState, useEffect } from "react"
-import { useParams } from "react-router-dom"
+import { useParams, Link } from "react-router-dom"
 import { articlesObject } from "../data/articles"
 
 export default function Country() {
@@ -9,36 +9,18 @@ export default function Country() {
     useEffect((() => 
         setCountry(articlesObject[`${params.country}`])
     ), [params])
-    
-    let trips = ""
 
-    // console.log(country.trips[0])
-
-    trips = country.trips.map((trip) => {
+    const trips = country.trips.map((trip) => {
         return (
-            <div className='adventure-card' key={trip.place}>
-                <img src={trip.imageUrl} alt={trip.imageAlt} />
-                <h3>{trip.place}</h3>
-                <p>{trip.description}</p>
-            </div>
+            <Link to={`${trip.linkTo}`} key={trip.place}>
+                <div className='adventure-card' >
+                    <img src={trip.imageUrl} alt={trip.imageAlt} />
+                    <h3>{trip.place}</h3>
+                    <p>{trip.description}</p>
+                </div>
+            </Link>
         )
     })
-
-    // console.log(trips)
-    // console.log(articlesObject[`${params.country}`].imageUrl)
-
-    /*country.trips.map((trip) => {
-        
-        console.log(trip)
-        
-        return (
-            <div className='adventure-card'>
-                <img src="mosque-istanbul.jpg" alt="mosque istanbul" />
-                <h3>Istanbul</h3>
-                <p>Erasmus study exchange</p>
-            </div>
-        )
-    })*/
     
     return (
         <div className="section">

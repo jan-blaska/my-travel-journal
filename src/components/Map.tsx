@@ -52,6 +52,10 @@ export default function Map() {
                                     const isVisited = country ? country.isVisited : false
                                     // console.log(geo)
 
+                                    const countryUrl = country ? country.url : ""
+
+                                    
+
                                     return (
                                         <Geography 
                                             key={geo.rsmKey} 
@@ -65,7 +69,7 @@ export default function Map() {
                                             stroke="#FFF"
                                             strokeWidth={0.3}
                                             // change onClick event, ex. redirect to the article/s about the country clicked
-                                            onClick={() => console.log(geo.properties.name)}
+                                            onClick={() => location.href = `/destination/${countryUrl}`}
                                             className="country"
                                         />
                                     )

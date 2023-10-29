@@ -1,15 +1,16 @@
 export const articlesObject = {
     "turkey": {
         countryName: "Turkey",
-        imageUrl: "/countries/turkey/mosque-istanbul.jpg",
+        imageUrl: "https://drive.google.com/uc?id=1LyojTH45h3rvV4Y1TnoXvy_q4ZTCAlzT",
         imageAlt: "Photo of the Turkey master piece - mosque Hagia Sofia.",
         description: "Welcome to country, where East meets West. Explore captivating history, stunning landscapes, and the genuine hospitality of its people.",
         trips: [
             {
                 place: "Istanbul",
-                imageUrl: "/countries/turkey/mosque-istanbul.jpg",
+                imageUrl: "https://drive.google.com/uc?id=1LyojTH45h3rvV4Y1TnoXvy_q4ZTCAlzT",
                 imageAlt: "Photo of the Turkey master piece - mosque Hagia Sofia.",
-                description: "Erasmus study exchange"
+                description: "Erasmus study exchange",
+                linkTo: "/destination/turkey/istanbul"
             }
         ]
     },
@@ -23,7 +24,8 @@ export const articlesObject = {
                 place: "Puerto Plata",
                 imageUrl: "https://drive.google.com/uc?id=1LiWEnH06fpQYqGhjEv7MLCBksq3qu_Eb",
                 imageAlt: "Beautiful beach in the Dominican republic.",
-                description: "Escape from winter."
+                description: "The escape from the winter.",
+                linkTo: "/destination/dominican-republic/puerto-plata"
             }
         ]
     },
@@ -37,7 +39,8 @@ export const articlesObject = {
                 place: "Switzerland",
                 imageUrl: "https://drive.google.com/uc?id=1zr0zUF6lupbcwmxPrNl-KO6b1EcMIyZ4",
                 imageAlt: "Ship with swiss flag.",
-                description: "Hitchhiking adventure"
+                description: "Hitchhiking adventure",
+                linkTo: "/destination/switzerland/switzerland"
             }
         ]
     },

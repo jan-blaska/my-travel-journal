@@ -4,6 +4,7 @@ export const countriesArray = [
       alpha2: "af",
       alpha3: "afg",
       name: "Afghanistan",
+      url: "afghanistan",
       isVisited: false
     },
     {
@@ -11,6 +12,7 @@ export const countriesArray = [
       alpha2: "al",
       alpha3: "alb",
       name: "Albania",
+      url: "albania",
       isVisited: true
     },
     {
@@ -18,6 +20,7 @@ export const countriesArray = [
       alpha2: "dz",
       alpha3: "dza",
       name: "Algeria",
+      url: "algeria",
       isVisited: false
     },
     {
@@ -25,6 +28,7 @@ export const countriesArray = [
       alpha2: "ad",
       alpha3: "and",
       name: "Andorra",
+      url: "andorra",
       isVisited: false
     },
     {
@@ -32,6 +36,7 @@ export const countriesArray = [
       alpha2: "ao",
       alpha3: "ago",
       name: "Angola",
+      url: "angola",
       isVisited: false
     },
     {
@@ -39,6 +44,7 @@ export const countriesArray = [
       alpha2: "ag",
       alpha3: "atg",
       name: "Antigua and Barbuda",
+      url: "antigua-and-barbuda",
       isVisited: false
     },
     {
@@ -46,6 +52,7 @@ export const countriesArray = [
       alpha2: "ar",
       alpha3: "arg",
       name: "Argentina",
+      url: "argentina",
       isVisited: false
     },
     {
@@ -53,6 +60,7 @@ export const countriesArray = [
       alpha2: "am",
       alpha3: "arm",
       name: "Armenia",
+      url: "armenia",
       isVisited: false
     },
     {
@@ -60,6 +68,7 @@ export const countriesArray = [
       alpha2: "au",
       alpha3: "aus",
       name: "Australia",
+      url: "australia",
       isVisited: false
     },
     {
@@ -67,6 +76,7 @@ export const countriesArray = [
       alpha2: "at",
       alpha3: "aut",
       name: "Austria",
+      url: "austria",
       isVisited: true
     },
     {
@@ -74,6 +84,7 @@ export const countriesArray = [
       alpha2: "az",
       alpha3: "aze",
       name: "Azerbaijan",
+      url: "azerbaijan",
       isVisited: false
     },
     {
@@ -81,6 +92,7 @@ export const countriesArray = [
       alpha2: "bs",
       alpha3: "bhs",
       name: "Bahamas",
+      url: "bahamas",
       isVisited: false
     },
     {
@@ -88,6 +100,7 @@ export const countriesArray = [
       alpha2: "bh",
       alpha3: "bhr",
       name: "Bahrain",
+      url: "bahrain",
       isVisited: false
     },
     {
@@ -95,6 +108,7 @@ export const countriesArray = [
       alpha2: "bd",
       alpha3: "bgd",
       name: "Bangladesh",
+      url: "bangladesh",
       isVisited: false
     },
     {
@@ -102,6 +116,7 @@ export const countriesArray = [
       alpha2: "bb",
       alpha3: "brb",
       name: "Barbados",
+      url: "barbados",
       isVisited: false
     },
     {
@@ -109,6 +124,7 @@ export const countriesArray = [
       alpha2: "by",
       alpha3: "blr",
       name: "Belarus",
+      url: "belarus",
       isVisited: false
     },
     {
@@ -116,6 +132,7 @@ export const countriesArray = [
       alpha2: "be",
       alpha3: "bel",
       name: "Belgium",
+      url: "belgium",
       isVisited: false
     },
     {
@@ -123,6 +140,7 @@ export const countriesArray = [
       alpha2: "bz",
       alpha3: "blz",
       name: "Belize",
+      url: "belize",
       isVisited: false
     },
     {
@@ -130,6 +148,7 @@ export const countriesArray = [
       alpha2: "bj",
       alpha3: "ben",
       name: "Benin",
+      url: "benin",
       isVisited: false
     },
     {
@@ -137,6 +156,7 @@ export const countriesArray = [
       alpha2: "bt",
       alpha3: "btn",
       name: "Bhutan",
+      url: "bhutan",
       isVisited: false
     },
     {
@@ -144,6 +164,7 @@ export const countriesArray = [
       alpha2: "bo",
       alpha3: "bol",
       name: "Bolivia (Plurinational State of)",
+      url: "bolivia",
       isVisited: false
     },
     {
@@ -151,6 +172,7 @@ export const countriesArray = [
       alpha2: "ba",
       alpha3: "bih",
       name: "Bosnia and Herzegovina",
+      url: "bosnia-and-herzegovina",
       isVisited: false
     },
     {
@@ -158,6 +180,7 @@ export const countriesArray = [
       alpha2: "bw",
       alpha3: "bwa",
       name: "Botswana",
+      url: "botswana",
       isVisited: false
     },
     {
@@ -165,6 +188,7 @@ export const countriesArray = [
       alpha2: "br",
       alpha3: "bra",
       name: "Brazil",
+      url: "brazil",
       isVisited: false
     },
     {
@@ -172,6 +196,7 @@ export const countriesArray = [
       alpha2: "bn",
       alpha3: "brn",
       name: "Brunei Darussalam",
+      url: "brunei-darussalam",
       isVisited: false
     },
     {
@@ -179,6 +204,7 @@ export const countriesArray = [
       alpha2: "bg",
       alpha3: "bgr",
       name: "Bulgaria",
+      url: "bulgaria",
       isVisited: true
     },
     {
@@ -186,6 +212,7 @@ export const countriesArray = [
       alpha2: "bf",
       alpha3: "bfa",
       name: "Burkina Faso",
+      url: "burkina-faso",
       isVisited: false
     },
     {
@@ -193,6 +220,7 @@ export const countriesArray = [
       alpha2: "bi",
       alpha3: "bdi",
       name: "Burundi",
+      url: "burundi",
       isVisited: false
     },
     {
@@ -200,6 +228,7 @@ export const countriesArray = [
       alpha2: "cv",
       alpha3: "cpv",
       name: "Cabo Verde",
+      url: "cabo-verde",
       isVisited: false
     },
     {
@@ -207,6 +236,7 @@ export const countriesArray = [
       alpha2: "kh",
       alpha3: "khm",
       name: "Cambodia",
+      url: "cambodia",
       isVisited: false
     },
     {
@@ -214,6 +244,7 @@ export const countriesArray = [
       alpha2: "cm",
       alpha3: "cmr",
       name: "Cameroon",
+      url: "cameroon",
       isVisited: false
     },
     {
@@ -221,6 +252,7 @@ export const countriesArray = [
       alpha2: "ca",
       alpha3: "can",
       name: "Canada",
+      url: "canada",
       isVisited: false
     },
     {
@@ -228,6 +260,7 @@ export const countriesArray = [
       alpha2: "cf",
       alpha3: "caf",
       name: "Central African Republic",
+      url: "central-african-republic",
       isVisited: false
     },
     {
@@ -235,6 +268,7 @@ export const countriesArray = [
       alpha2: "td",
       alpha3: "tcd",
       name: "Chad",
+      url: "chad",
       isVisited: false
     },
     {
@@ -242,6 +276,7 @@ export const countriesArray = [
       alpha2: "cl",
       alpha3: "chl",
       name: "Chile",
+      url: "chile",
       isVisited: false
     },
     {
@@ -249,6 +284,7 @@ export const countriesArray = [
       alpha2: "cn",
       alpha3: "chn",
       name: "China",
+      url: "china",
       isVisited: false
     },
     {
@@ -256,6 +292,7 @@ export const countriesArray = [
       alpha2: "co",
       alpha3: "col",
       name: "Colombia",
+      url: "colombia",
       isVisited: false
     },
     {
@@ -263,6 +300,7 @@ export const countriesArray = [
       alpha2: "km",
       alpha3: "com",
       name: "Comoros",
+      url: "comoros",
       isVisited: false
     },
     {
@@ -270,6 +308,7 @@ export const countriesArray = [
       alpha2: "cg",
       alpha3: "cog",
       name: "Congo",
+      url: "congo",
       isVisited: false
     },
     {
@@ -277,6 +316,7 @@ export const countriesArray = [
       alpha2: "cd",
       alpha3: "cod",
       name: "Congo, Democratic Republic of the",
+      url: "congo-democratic-republic-of-the",
       isVisited: false
     },
     {
@@ -284,6 +324,7 @@ export const countriesArray = [
       alpha2: "cr",
       alpha3: "cri",
       name: "Costa Rica",
+      url: "costa-rica",
       isVisited: false
     },
     {
@@ -291,6 +332,7 @@ export const countriesArray = [
       alpha2: "ci",
       alpha3: "civ",
       name: "Côte d'Ivoire",
+      url: "cote-d-ivoire",
       isVisited: false
     },
     {
@@ -298,6 +340,7 @@ export const countriesArray = [
       alpha2: "hr",
       alpha3: "hrv",
       name: "Croatia",
+      url: "croatia",
       isVisited: true
     },
     {
@@ -305,6 +348,7 @@ export const countriesArray = [
       alpha2: "cu",
       alpha3: "cub",
       name: "Cuba",
+      url: "cuba",
       isVisited: false
     },
     {
@@ -312,6 +356,7 @@ export const countriesArray = [
       alpha2: "cy",
       alpha3: "cyp",
       name: "Cyprus",
+      url: "cyprus",
       isVisited: false
     },
     {
@@ -319,6 +364,7 @@ export const countriesArray = [
       alpha2: "cz",
       alpha3: "cze",
       name: "Czechia",
+      url: "czechia",
       isVisited: true
     },
     {
@@ -326,6 +372,7 @@ export const countriesArray = [
       alpha2: "dk",
       alpha3: "dnk",
       name: "Denmark",
+      url: "denmark",
       isVisited: false
     },
     {
@@ -333,6 +380,7 @@ export const countriesArray = [
       alpha2: "dj",
       alpha3: "dji",
       name: "Djibouti",
+      url: "djibouti",
       isVisited: false
     },
     {
@@ -340,6 +388,7 @@ export const countriesArray = [
       alpha2: "dm",
       alpha3: "dma",
       name: "Dominica",
+      url: "dominica",
       isVisited: false
     },
     {
@@ -347,6 +396,7 @@ export const countriesArray = [
       alpha2: "do",
       alpha3: "dom",
       name: "Dominican Republic",
+      url: "dominican-republic",
       isVisited: true
     },
     {
@@ -354,6 +404,7 @@ export const countriesArray = [
       alpha2: "ec",
       alpha3: "ecu",
       name: "Ecuador",
+      url: "ecuador",
       isVisited: false
     },
     {
@@ -361,6 +412,7 @@ export const countriesArray = [
       alpha2: "eg",
       alpha3: "egy",
       name: "Egypt",
+      url: "egypt",
       isVisited: false
     },
     {
@@ -368,6 +420,7 @@ export const countriesArray = [
       alpha2: "sv",
       alpha3: "slv",
       name: "El Salvador",
+      url: "el-salvador",
       isVisited: false
     },
     {
@@ -375,6 +428,7 @@ export const countriesArray = [
       alpha2: "gq",
       alpha3: "gnq",
       name: "Equatorial Guinea",
+      url: "equatorial-guinea",
       isVisited: false
     },
     {
@@ -382,6 +436,7 @@ export const countriesArray = [
       alpha2: "er",
       alpha3: "eri",
       name: "Eritrea",
+      url: "eritrea",
       isVisited: false
     },
     {
@@ -389,6 +444,7 @@ export const countriesArray = [
       alpha2: "ee",
       alpha3: "est",
       name: "Estonia",
+      url: "estonia",
       isVisited: false
     },
     {
@@ -396,6 +452,7 @@ export const countriesArray = [
       alpha2: "sz",
       alpha3: "swz",
       name: "Eswatini",
+      url: "eswatini",
       isVisited: false
     },
     {
@@ -403,6 +460,7 @@ export const countriesArray = [
       alpha2: "et",
       alpha3: "eth",
       name: "Ethiopia",
+      url: "ethiopia",
       isVisited: false
     },
     {
@@ -410,6 +468,7 @@ export const countriesArray = [
       alpha2: "fj",
       alpha3: "fji",
       name: "Fiji",
+      url: "fiji",
       isVisited: false
     },
     {
@@ -417,6 +476,7 @@ export const countriesArray = [
       alpha2: "fi",
       alpha3: "fin",
       name: "Finland",
+      url: "finland",
       isVisited: true
     },
     {
@@ -424,6 +484,7 @@ export const countriesArray = [
       alpha2: "fr",
       alpha3: "fra",
       name: "France",
+      url: "france",
       isVisited: true
     },
     {
@@ -431,6 +492,7 @@ export const countriesArray = [
       alpha2: "ga",
       alpha3: "gab",
       name: "Gabon",
+      url: "gabon",
       isVisited: false
     },
     {
@@ -438,6 +500,7 @@ export const countriesArray = [
       alpha2: "gm",
       alpha3: "gmb",
       name: "Gambia",
+      url: "gambia",
       isVisited: false
     },
     {
@@ -445,6 +508,7 @@ export const countriesArray = [
       alpha2: "ge",
       alpha3: "geo",
       name: "Georgia",
+      url: "georgia",
       isVisited: false
     },
     {
@@ -452,6 +516,7 @@ export const countriesArray = [
       alpha2: "de",
       alpha3: "deu",
       name: "Germany",
+      url: "germany",
       isVisited: true
     },
     {
@@ -459,6 +524,7 @@ export const countriesArray = [
       alpha2: "gh",
       alpha3: "gha",
       name: "Ghana",
+      url: "ghana",
       isVisited: false
     },
     {
@@ -466,6 +532,7 @@ export const countriesArray = [
       alpha2: "gr",
       alpha3: "grc",
       name: "Greece",
+      url: "greece",
       isVisited: true
     },
     {
@@ -473,6 +540,7 @@ export const countriesArray = [
       alpha2: "gd",
       alpha3: "grd",
       name: "Grenada",
+      url: "grenada",
       isVisited: false
     },
     {
@@ -480,6 +548,7 @@ export const countriesArray = [
       alpha2: "gt",
       alpha3: "gtm",
       name: "Guatemala",
+      url: "guatemala",
       isVisited: false
     },
     {
@@ -487,6 +556,7 @@ export const countriesArray = [
       alpha2: "gn",
       alpha3: "gin",
       name: "Guinea",
+      url: "guinea",
       isVisited: false
     },
     {
@@ -494,6 +564,7 @@ export const countriesArray = [
       alpha2: "gw",
       alpha3: "gnb",
       name: "Guinea-Bissau",
+      url: "guinea-bissau",
       isVisited: false
     },
     {
@@ -501,6 +572,7 @@ export const countriesArray = [
       alpha2: "gy",
       alpha3: "guy",
       name: "Guyana",
+      url: "guyana",
       isVisited: false
     },
     {
@@ -508,6 +580,7 @@ export const countriesArray = [
       alpha2: "ht",
       alpha3: "hti",
       name: "Haiti",
+      url: "haiti",
       isVisited: false
     },
     {
@@ -515,6 +588,7 @@ export const countriesArray = [
       alpha2: "hn",
       alpha3: "hnd",
       name: "Honduras",
+      url: "honduras",
       isVisited: false
     },
     {
@@ -522,6 +596,7 @@ export const countriesArray = [
       alpha2: "hu",
       alpha3: "hun",
       name: "Hungary",
+      url: "hungary",
       isVisited: true
     },
     {
@@ -529,6 +604,7 @@ export const countriesArray = [
       alpha2: "is",
       alpha3: "isl",
       name: "Iceland",
+      url: "iceland",
       isVisited: false
     },
     {
@@ -536,6 +612,7 @@ export const countriesArray = [
       alpha2: "in",
       alpha3: "ind",
       name: "India",
+      url: "india",
       isVisited: false
     },
     {
@@ -543,6 +620,7 @@ export const countriesArray = [
       alpha2: "id",
       alpha3: "idn",
       name: "Indonesia",
+      url: "indonesia",
       isVisited: false
     },
     {
@@ -550,6 +628,7 @@ export const countriesArray = [
       alpha2: "ir",
       alpha3: "irn",
       name: "Iran (Islamic Republic of)",
+      url: "iran",
       isVisited: false
     },
     {
@@ -557,6 +636,7 @@ export const countriesArray = [
       alpha2: "iq",
       alpha3: "irq",
       name: "Iraq",
+      url: "iraq",
       isVisited: false
     },
     {
@@ -564,6 +644,7 @@ export const countriesArray = [
       alpha2: "ie",
       alpha3: "irl",
       name: "Ireland",
+      url: "ireland",
       isVisited: false
     },
     {
@@ -571,6 +652,7 @@ export const countriesArray = [
       alpha2: "il",
       alpha3: "isr",
       name: "Israel",
+      url: "israel",
       isVisited: true
     },
     {
@@ -578,6 +660,7 @@ export const countriesArray = [
       alpha2: "it",
       alpha3: "ita",
       name: "Italy",
+      url: "italy",
       isVisited: true
     },
     {
@@ -585,6 +668,7 @@ export const countriesArray = [
       alpha2: "jm",
       alpha3: "jam",
       name: "Jamaica",
+      url: "jamaica",
       isVisited: false
     },
     {
@@ -592,6 +676,7 @@ export const countriesArray = [
       alpha2: "jp",
       alpha3: "jpn",
       name: "Japan",
+      url: "japan",
       isVisited: false
     },
     {
@@ -599,6 +684,7 @@ export const countriesArray = [
       alpha2: "jo",
       alpha3: "jor",
       name: "Jordan",
+      url: "jordan",
       isVisited: true
     },
     {
@@ -606,6 +692,7 @@ export const countriesArray = [
       alpha2: "kz",
       alpha3: "kaz",
       name: "Kazakhstan",
+      url: "kazakhstan",
       isVisited: false
     },
     {
@@ -613,6 +700,7 @@ export const countriesArray = [
       alpha2: "ke",
       alpha3: "ken",
       name: "Kenya",
+      url: "kenya",
       isVisited: false
     },
     {
@@ -620,6 +708,7 @@ export const countriesArray = [
       alpha2: "ki",
       alpha3: "kir",
       name: "Kiribati",
+      url: "kiribati",
       isVisited: false
     },
     {
@@ -627,6 +716,7 @@ export const countriesArray = [
       alpha2: "kp",
       alpha3: "prk",
       name: "Korea (Democratic People's Republic of)",
+      url: "korea-democratic-People-republic-of)",
       isVisited: false
     },
     {
@@ -634,6 +724,7 @@ export const countriesArray = [
       alpha2: "kr",
       alpha3: "kor",
       name: "Korea, Republic of",
+      url: "korea-republic-of",
       isVisited: false
     },
     {
@@ -641,6 +732,7 @@ export const countriesArray = [
       alpha2: "kw",
       alpha3: "kwt",
       name: "Kuwait",
+      url: "kuwait",
       isVisited: false
     },
     {
@@ -648,6 +740,7 @@ export const countriesArray = [
       alpha2: "kg",
       alpha3: "kgz",
       name: "Kyrgyzstan",
+      url: "kyrgyzstan",
       isVisited: false
     },
     {
@@ -655,6 +748,7 @@ export const countriesArray = [
       alpha2: "la",
       alpha3: "lao",
       name: "Lao People's Democratic Republic",
+      url: "lao-People-s-democratic-republic",
       isVisited: false
     },
     {
@@ -662,6 +756,7 @@ export const countriesArray = [
       alpha2: "lv",
       alpha3: "lva",
       name: "Latvia",
+      url: "latvia",
       isVisited: false
     },
     {
@@ -669,6 +764,7 @@ export const countriesArray = [
       alpha2: "lb",
       alpha3: "lbn",
       name: "Lebanon",
+      url: "lebanon",
       isVisited: false
     },
     {
@@ -676,6 +772,7 @@ export const countriesArray = [
       alpha2: "ls",
       alpha3: "lso",
       name: "Lesotho",
+      url: "lesotho",
       isVisited: false
     },
     {
@@ -683,6 +780,7 @@ export const countriesArray = [
       alpha2: "lr",
       alpha3: "lbr",
       name: "Liberia",
+      url: "liberia",
       isVisited: false
     },
     {
@@ -690,6 +788,7 @@ export const countriesArray = [
       alpha2: "ly",
       alpha3: "lby",
       name: "Libya",
+      url: "libya",
       isVisited: false
     },
     {
@@ -697,6 +796,7 @@ export const countriesArray = [
       alpha2: "li",
       alpha3: "lie",
       name: "Liechtenstein",
+      url: "liechtenstein",
       isVisited: false
     },
     {
@@ -704,6 +804,7 @@ export const countriesArray = [
       alpha2: "lt",
       alpha3: "ltu",
       name: "Lithuania",
+      url: "lithuania",
       isVisited: false
     },
     {
@@ -711,6 +812,7 @@ export const countriesArray = [
       alpha2: "lu",
       alpha3: "lux",
       name: "Luxembourg",
+      url: "luxembourg",
       isVisited: false
     },
     {
@@ -718,6 +820,7 @@ export const countriesArray = [
       alpha2: "mg",
       alpha3: "mdg",
       name: "Madagascar",
+      url: "madagascar",
       isVisited: false
     },
     {
@@ -725,6 +828,7 @@ export const countriesArray = [
       alpha2: "mw",
       alpha3: "mwi",
       name: "Malawi",
+      url: "malawi",
       isVisited: false
     },
     {
@@ -732,6 +836,7 @@ export const countriesArray = [
       alpha2: "my",
       alpha3: "mys",
       name: "Malaysia",
+      url: "malaysia",
       isVisited: false
     },
     {
@@ -739,6 +844,7 @@ export const countriesArray = [
       alpha2: "mv",
       alpha3: "mdv",
       name: "Maldives",
+      url: "maldives",
       isVisited: false
     },
     {
@@ -746,6 +852,7 @@ export const countriesArray = [
       alpha2: "ml",
       alpha3: "mli",
       name: "Mali",
+      url: "mali",
       isVisited: false
     },
     {
@@ -753,6 +860,7 @@ export const countriesArray = [
       alpha2: "mt",
       alpha3: "mlt",
       name: "Malta",
+      url: "malta",
       isVisited: false
     },
     {
@@ -760,6 +868,7 @@ export const countriesArray = [
       alpha2: "mh",
       alpha3: "mhl",
       name: "Marshall Islands",
+      url: "marshall-islands",
       isVisited: false
     },
     {
@@ -767,6 +876,7 @@ export const countriesArray = [
       alpha2: "mr",
       alpha3: "mrt",
       name: "Mauritania",
+      url: "mauritania",
       isVisited: false
     },
     {
@@ -774,6 +884,7 @@ export const countriesArray = [
       alpha2: "mu",
       alpha3: "mus",
       name: "Mauritius",
+      url: "mauritius",
       isVisited: false
     },
     {
@@ -781,6 +892,7 @@ export const countriesArray = [
       alpha2: "mx",
       alpha3: "mex",
       name: "Mexico",
+      url: "mexico",
       isVisited: false
     },
     {
@@ -788,6 +900,7 @@ export const countriesArray = [
       alpha2: "fm",
       alpha3: "fsm",
       name: "Micronesia (Federated States of)",
+      url: "micronesia",
       isVisited: false
     },
     {
@@ -795,6 +908,7 @@ export const countriesArray = [
       alpha2: "md",
       alpha3: "mda",
       name: "Moldova, Republic of",
+      url: "moldova",
       isVisited: false
     },
     {
@@ -802,6 +916,7 @@ export const countriesArray = [
       alpha2: "mc",
       alpha3: "mco",
       name: "Monaco",
+      url: "monaco",
       isVisited: false
     },
     {
@@ -809,6 +924,7 @@ export const countriesArray = [
       alpha2: "mn",
       alpha3: "mng",
       name: "Mongolia",
+      url: "mongolia",
       isVisited: false
     },
     {
@@ -816,6 +932,7 @@ export const countriesArray = [
       alpha2: "me",
       alpha3: "mne",
       name: "Montenegro",
+      url: "montenegro",
       isVisited: true
     },
     {
@@ -823,6 +940,7 @@ export const countriesArray = [
       alpha2: "ma",
       alpha3: "mar",
       name: "Morocco",
+      url: "morocco",
       isVisited: true
     },
     {
@@ -830,6 +948,7 @@ export const countriesArray = [
       alpha2: "mz",
       alpha3: "moz",
       name: "Mozambique",
+      url: "mozambique",
       isVisited: false
     },
     {
@@ -837,6 +956,7 @@ export const countriesArray = [
       alpha2: "mm",
       alpha3: "mmr",
       name: "Myanmar",
+      url: "myanmar",
       isVisited: false
     },
     {
@@ -844,6 +964,7 @@ export const countriesArray = [
       alpha2: "na",
       alpha3: "nam",
       name: "Namibia",
+      url: "namibia",
       isVisited: false
     },
     {
@@ -851,6 +972,7 @@ export const countriesArray = [
       alpha2: "nr",
       alpha3: "nru",
       name: "Nauru",
+      url: "nauru",
       isVisited: false
     },
     {
@@ -858,6 +980,7 @@ export const countriesArray = [
       alpha2: "np",
       alpha3: "npl",
       name: "Nepal",
+      url: "nepal",
       isVisited: false
     },
     {
@@ -865,6 +988,7 @@ export const countriesArray = [
       alpha2: "nl",
       alpha3: "nld",
       name: "Netherlands",
+      url: "netherlands",
       isVisited: false
     },
     {
@@ -872,6 +996,7 @@ export const countriesArray = [
       alpha2: "nz",
       alpha3: "nzl",
       name: "New Zealand",
+      url: "new-zealand",
       isVisited: false
     },
     {
@@ -879,6 +1004,7 @@ export const countriesArray = [
       alpha2: "ni",
       alpha3: "nic",
       name: "Nicaragua",
+      url: "nicaragua",
       isVisited: false
     },
     {
@@ -886,6 +1012,7 @@ export const countriesArray = [
       alpha2: "ne",
       alpha3: "ner",
       name: "Niger",
+      url: "niger",
       isVisited: false
     },
     {
@@ -893,6 +1020,7 @@ export const countriesArray = [
       alpha2: "ng",
       alpha3: "nga",
       name: "Nigeria",
+      url: "nigeria",
       isVisited: false
     },
     {
@@ -900,6 +1028,7 @@ export const countriesArray = [
       alpha2: "mk",
       alpha3: "mkd",
       name: "North Macedonia",
+      url: "north-macedonia",
       isVisited: false
     },
     {
@@ -907,6 +1036,7 @@ export const countriesArray = [
       alpha2: "no",
       alpha3: "nor",
       name: "Norway",
+      url: "norway",
       isVisited: true
     },
     {
@@ -914,6 +1044,7 @@ export const countriesArray = [
       alpha2: "om",
       alpha3: "omn",
       name: "Oman",
+      url: "oman",
       isVisited: false
     },
     {
@@ -921,6 +1052,7 @@ export const countriesArray = [
       alpha2: "pk",
       alpha3: "pak",
       name: "Pakistan",
+      url: "pakistan",
       isVisited: false
     },
     {
@@ -928,6 +1060,7 @@ export const countriesArray = [
       alpha2: "pw",
       alpha3: "plw",
       name: "Palau",
+      url: "palau",
       isVisited: false
     },
     {
@@ -935,6 +1068,7 @@ export const countriesArray = [
       alpha2: "pa",
       alpha3: "pan",
       name: "Panama",
+      url: "panama",
       isVisited: false
     },
     {
@@ -942,6 +1076,7 @@ export const countriesArray = [
       alpha2: "pg",
       alpha3: "png",
       name: "Papua New Guinea",
+      url: "papua-wew-guinea",
       isVisited: false
     },
     {
@@ -949,6 +1084,7 @@ export const countriesArray = [
       alpha2: "py",
       alpha3: "pry",
       name: "Paraguay",
+      url: "paraguay",
       isVisited: false
     },
     {
@@ -956,6 +1092,7 @@ export const countriesArray = [
       alpha2: "pe",
       alpha3: "per",
       name: "Peru",
+      url: "peru",
       isVisited: false
     },
     {
@@ -963,6 +1100,7 @@ export const countriesArray = [
       alpha2: "ph",
       alpha3: "phl",
       name: "Philippines",
+      url: "philippines",
       isVisited: true
     },
     {
@@ -970,6 +1108,7 @@ export const countriesArray = [
       alpha2: "pl",
       alpha3: "pol",
       name: "Poland",
+      url: "poland",
       isVisited: true
     },
     {
@@ -977,6 +1116,7 @@ export const countriesArray = [
       alpha2: "pt",
       alpha3: "prt",
       name: "Portugal",
+      url: "portugal",
       isVisited: true
     },
     {
@@ -984,6 +1124,7 @@ export const countriesArray = [
       alpha2: "qa",
       alpha3: "qat",
       name: "Qatar",
+      url: "qatar",
       isVisited: false
     },
     {
@@ -991,6 +1132,7 @@ export const countriesArray = [
       alpha2: "ro",
       alpha3: "rou",
       name: "Romania",
+      url: "romania",
       isVisited: true
     },
     {
@@ -998,6 +1140,7 @@ export const countriesArray = [
       alpha2: "ru",
       alpha3: "rus",
       name: "Russian Federation",
+      url: "russia",
       isVisited: true
     },
     {
@@ -1005,6 +1148,7 @@ export const countriesArray = [
       alpha2: "rw",
       alpha3: "rwa",
       name: "Rwanda",
+      url: "rwanda",
       isVisited: false
     },
     {
@@ -1012,6 +1156,7 @@ export const countriesArray = [
       alpha2: "kn",
       alpha3: "kna",
       name: "Saint Kitts and Nevis",
+      url: "saint-kitts-and-nevis",
       isVisited: false
     },
     {
@@ -1019,6 +1164,7 @@ export const countriesArray = [
       alpha2: "lc",
       alpha3: "lca",
       name: "Saint Lucia",
+      url: "saint-lucia",
       isVisited: false
     },
     {
@@ -1026,6 +1172,7 @@ export const countriesArray = [
       alpha2: "vc",
       alpha3: "vct",
       name: "Saint Vincent and the Grenadines",
+      url: "saint-vincent-and-the-grenadines",
       isVisited: false
     },
     {
@@ -1033,6 +1180,7 @@ export const countriesArray = [
       alpha2: "ws",
       alpha3: "wsm",
       name: "Samoa",
+      url: "samoa",
       isVisited: false
     },
     {
@@ -1040,6 +1188,7 @@ export const countriesArray = [
       alpha2: "sm",
       alpha3: "smr",
       name: "San Marino",
+      url: "san-marino",
       isVisited: false
     },
     {
@@ -1047,6 +1196,7 @@ export const countriesArray = [
       alpha2: "st",
       alpha3: "stp",
       name: "Sao Tome and Principe",
+      url: "sao-tome-and-principe",
       isVisited: false
     },
     {
@@ -1054,6 +1204,7 @@ export const countriesArray = [
       alpha2: "sa",
       alpha3: "sau",
       name: "Saudi Arabia",
+      url: "saudi-arabia",
       isVisited: false
     },
     {
@@ -1061,6 +1212,7 @@ export const countriesArray = [
       alpha2: "sn",
       alpha3: "sen",
       name: "Senegal",
+      url: "senegal",
       isVisited: false
     },
     {
@@ -1068,6 +1220,7 @@ export const countriesArray = [
       alpha2: "rs",
       alpha3: "srb",
       name: "Serbia",
+      url: "serbia",
       isVisited: true
     },
     {
@@ -1075,6 +1228,7 @@ export const countriesArray = [
       alpha2: "sc",
       alpha3: "syc",
       name: "Seychelles",
+      url: "seychelles",
       isVisited: false
     },
     {
@@ -1082,6 +1236,7 @@ export const countriesArray = [
       alpha2: "sl",
       alpha3: "sle",
       name: "Sierra Leone",
+      url: "sierra Leone",
       isVisited: false
     },
     {
@@ -1089,6 +1244,7 @@ export const countriesArray = [
       alpha2: "sg",
       alpha3: "sgp",
       name: "Singapore",
+      url: "singapore",
       isVisited: false
     },
     {
@@ -1096,6 +1252,7 @@ export const countriesArray = [
       alpha2: "sk",
       alpha3: "svk",
       name: "Slovakia",
+      url: "slovakia",
       isVisited: true
     },
     {
@@ -1103,6 +1260,7 @@ export const countriesArray = [
       alpha2: "si",
       alpha3: "svn",
       name: "Slovenia",
+      url: "slovenia",
       isVisited: true
     },
     {
@@ -1110,6 +1268,7 @@ export const countriesArray = [
       alpha2: "sb",
       alpha3: "slb",
       name: "Solomon Islands",
+      url: "solomon-islands",
       isVisited: false
     },
     {
@@ -1117,6 +1276,7 @@ export const countriesArray = [
       alpha2: "so",
       alpha3: "som",
       name: "Somalia",
+      url: "somalia",
       isVisited: false
     },
     {
@@ -1124,6 +1284,7 @@ export const countriesArray = [
       alpha2: "za",
       alpha3: "zaf",
       name: "South Africa",
+      url: "south-africa",
       isVisited: false
     },
     {
@@ -1131,6 +1292,7 @@ export const countriesArray = [
       alpha2: "ss",
       alpha3: "ssd",
       name: "South Sudan",
+      url: "south-sudan",
       isVisited: false
     },
     {
@@ -1138,6 +1300,7 @@ export const countriesArray = [
       alpha2: "es",
       alpha3: "esp",
       name: "Spain",
+      url: "spain",
       isVisited: true
     },
     {
@@ -1145,6 +1308,7 @@ export const countriesArray = [
       alpha2: "lk",
       alpha3: "lka",
       name: "Sri Lanka",
+      url: "sri-lanka",
       isVisited: false
     },
     {
@@ -1152,6 +1316,7 @@ export const countriesArray = [
       alpha2: "sd",
       alpha3: "sdn",
       name: "Sudan",
+      url: "sudan",
       isVisited: false
     },
     {
@@ -1159,6 +1324,7 @@ export const countriesArray = [
       alpha2: "sr",
       alpha3: "sur",
       name: "Suriname",
+      url: "suriname",
       isVisited: false
     },
     {
@@ -1166,6 +1332,7 @@ export const countriesArray = [
       alpha2: "se",
       alpha3: "swe",
       name: "Sweden",
+      url: "sweden",
       isVisited: true
     },
     {
@@ -1173,6 +1340,7 @@ export const countriesArray = [
       alpha2: "ch",
       alpha3: "che",
       name: "Switzerland",
+      url: "switzerland",
       isVisited: true
     },
     {
@@ -1180,6 +1348,7 @@ export const countriesArray = [
       alpha2: "sy",
       alpha3: "syr",
       name: "Syrian Arab Republic",
+      url: "syrian-arab-republic",
       isVisited: false
     },
     {
@@ -1187,6 +1356,7 @@ export const countriesArray = [
       alpha2: "tj",
       alpha3: "tjk",
       name: "Tajikistan",
+      url: "tajikistan",
       isVisited: false
     },
     {
@@ -1194,6 +1364,7 @@ export const countriesArray = [
       alpha2: "tz",
       alpha3: "tza",
       name: "Tanzania, United Republic of",
+      url: "tanzania",
       isVisited: false
     },
     {
@@ -1201,6 +1372,7 @@ export const countriesArray = [
       alpha2: "th",
       alpha3: "tha",
       name: "Thailand",
+      url: "thailand",
       isVisited: false
     },
     {
@@ -1208,6 +1380,7 @@ export const countriesArray = [
       alpha2: "tl",
       alpha3: "tls",
       name: "Timor-Leste",
+      url: "timor-leste",
       isVisited: false
     },
     {
@@ -1215,6 +1388,7 @@ export const countriesArray = [
       alpha2: "tg",
       alpha3: "tgo",
       name: "Togo",
+      url: "togo",
       isVisited: false
     },
     {
@@ -1222,6 +1396,7 @@ export const countriesArray = [
       alpha2: "to",
       alpha3: "ton",
       name: "Tonga",
+      url: "tonga",
       isVisited: false
     },
     {
@@ -1229,6 +1404,7 @@ export const countriesArray = [
       alpha2: "tt",
       alpha3: "tto",
       name: "Trinidad and Tobago",
+      url: "trinidad-and-tobago",
       isVisited: false
     },
     {
@@ -1236,6 +1412,7 @@ export const countriesArray = [
       alpha2: "tn",
       alpha3: "tun",
       name: "Tunisia",
+      url: "tunisia",
       isVisited: false
     },
     {
@@ -1243,6 +1420,7 @@ export const countriesArray = [
       alpha2: "tr",
       alpha3: "tur",
       name: "Türkiye",
+      url: "turkey",
       isVisited: true
     },
     {
@@ -1250,6 +1428,7 @@ export const countriesArray = [
       alpha2: "tm",
       alpha3: "tkm",
       name: "Turkmenistan",
+      url: "turkmenistan",
       isVisited: false
     },
     {
@@ -1257,6 +1436,7 @@ export const countriesArray = [
       alpha2: "tv",
       alpha3: "tuv",
       name: "Tuvalu",
+      url: "tuvalu",
       isVisited: false
     },
     {
@@ -1264,6 +1444,7 @@ export const countriesArray = [
       alpha2: "ug",
       alpha3: "uga",
       name: "Uganda",
+      url: "uganda",
       isVisited: false
     },
     {
@@ -1271,6 +1452,7 @@ export const countriesArray = [
       alpha2: "ua",
       alpha3: "ukr",
       name: "Ukraine",
+      url: "ukraine",
       isVisited: false
     },
     {
@@ -1278,6 +1460,7 @@ export const countriesArray = [
       alpha2: "ae",
       alpha3: "are",
       name: "United Arab Emirates",
+      url: "united-arab-emirates",
       isVisited: false
     },
     {
@@ -1285,6 +1468,7 @@ export const countriesArray = [
       alpha2: "gb",
       alpha3: "gbr",
       name: "United Kingdom of Great Britain and Northern Ireland",
+      url: "united-kingdom",
       isVisited: true
     },
     {
@@ -1292,6 +1476,7 @@ export const countriesArray = [
       alpha2: "us",
       alpha3: "usa",
       name: "United States of America",
+      url: "united-states-of-america",
       isVisited: false
     },
     {
@@ -1299,6 +1484,7 @@ export const countriesArray = [
       alpha2: "uy",
       alpha3: "ury",
       name: "Uruguay",
+      url: "uruguay",
       isVisited: false
     },
     {
@@ -1306,6 +1492,7 @@ export const countriesArray = [
       alpha2: "uz",
       alpha3: "uzb",
       name: "Uzbekistan",
+      url: "uzbekistan",
       isVisited: false
     },
     {
@@ -1313,6 +1500,7 @@ export const countriesArray = [
       alpha2: "vu",
       alpha3: "vut",
       name: "Vanuatu",
+      url: "vanuatu",
       isVisited: false
     },
     {
@@ -1320,6 +1508,7 @@ export const countriesArray = [
       alpha2: "ve",
       alpha3: "ven",
       name: "Venezuela (Bolivarian Republic of)",
+      url: "venezuela",
       isVisited: false
     },
     {
@@ -1327,6 +1516,7 @@ export const countriesArray = [
       alpha2: "vn",
       alpha3: "vnm",
       name: "Viet Nam",
+      url: "vietnam",
       isVisited: false
     },
     {
@@ -1334,6 +1524,7 @@ export const countriesArray = [
       alpha2: "ye",
       alpha3: "yem",
       name: "Yemen",
+      url: "yemen",
       isVisited: false
     },
     {
@@ -1341,6 +1532,7 @@ export const countriesArray = [
       alpha2: "zm",
       alpha3: "zmb",
       name: "Zambia",
+      url: "zambia",
       isVisited: false
     },
     {
@@ -1348,6 +1540,7 @@ export const countriesArray = [
       alpha2: "zw",
       alpha3: "zwe",
       name: "Zimbabwe",
+      url: "zimbabwe",
       isVisited: false
     }
   ]

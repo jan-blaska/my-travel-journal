@@ -651,6 +651,8 @@ nav .nav--languages button {
 .adventure-card > img {
     position: absolute;
     width: 80%;
+    height: 80%;
+    object-fit: cover;
     border-radius: 10px;
     bottom: 50%;
 }
