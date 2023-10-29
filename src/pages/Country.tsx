@@ -5,19 +5,26 @@ import { articlesObject } from "../data/articles"
 export default function Country() {
     const params = useParams()
 
-    const [country, setCountry] = useState(params.country)
+    const [country, setCountry] = useState(articlesObject[`${params.country}`])
     useEffect((() => 
         setCountry(articlesObject[`${params.country}`])
     ), [params])
     
+    let trips = ""
 
-    console.log(country.trips)
+    // console.log(country.trips[0])
 
-    /*const trips = country.trips.map((trip) => {
-        return (trip)
+    trips = country.trips.map((trip) => {
+        return (
+            <div className='adventure-card' key={trip.place}>
+                <img src={trip.imageUrl} alt={trip.imageAlt} />
+                <h3>{trip.place}</h3>
+                <p>{trip.description}</p>
+            </div>
+        )
     })
 
-    console.log(trips)*/
+    // console.log(trips)
     // console.log(articlesObject[`${params.country}`].imageUrl)
 
     /*country.trips.map((trip) => {
@@ -46,7 +53,7 @@ export default function Country() {
                 <div className="section--latest-adventures">
                     <h1>{`Trips in ${country.countryName}`}</h1>
                     <div className='adventures-container'>
-
+                        {trips}
                     </div>
                 </div>
             </div>
