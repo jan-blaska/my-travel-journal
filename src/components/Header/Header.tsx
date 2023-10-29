@@ -61,17 +61,18 @@ export default function Header() {
                                 <div className="nav--links-adventures-grid">
                                     {menuItemsAdventures.map((item) => {
                                         return (
-                                            <div className="nav--links-adventures-grid-continent">
+                                            <div className="nav--links-adventures-grid-continent" key={item.continent}>
                                                 <h3>{item.continent}</h3>
                                                 <div className="nav--links-adventures-grid-continent-countries">
                                                 {item.countries.map(country => {
                                                     return (
                                                         <NavLink 
+                                                            key={country.name}    
                                                             className={({isActive}) => isActive ? "nav-link-selected" : null } 
-                                                                to={`/${country.linkTo}`}
-                                                            >
-                                                                {country.name}
-                                                         </NavLink>
+                                                            to={`/destination/${country.linkTo}`}
+                                                        >
+                                                            {country.name}
+                                                        </NavLink>
                                                     )
                                                 })}
                                                 </div>

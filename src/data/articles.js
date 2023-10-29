@@ -1,6 +1,6 @@
-export const articlesArray = [
-    {
-        country: "Turkey",
+export const articlesObject = {
+    "turkey": {
+        countryName: "Turkey",
         imageUrl: "/countries/turkey/mosque-istanbul.jpg",
         imageAlt: "Photo of the Turkey master piece - mosque Hagia Sofia.",
         description: "Welcome to country, where East meets West. Explore captivating history, stunning landscapes, and the genuine hospitality of its people.",
@@ -13,32 +13,32 @@ export const articlesArray = [
             }
         ]
     },
-    {
-        country: "Dominican republic",
-        imageUrl: "/countries/dominican-rep/beach.jpg",
+    "dominican-republic": {
+        countryName: "Dominican republic",
+        imageUrl: "https://drive.google.com/uc?id=1LiWEnH06fpQYqGhjEv7MLCBksq3qu_Eb",
         imageAlt: "Beautiful beach in the Dominican republic.",
         description: "Discover the vibrant rhythms and pristine beaches of the Dominican Republic, where culture and natural beauty unite in harmony.",
         trips: [
             {
                 place: "Puerto Plata",
-                imageUrl: "/countries/dominican-rep/beach.jpg",
+                imageUrl: "https://drive.google.com/uc?id=1LiWEnH06fpQYqGhjEv7MLCBksq3qu_Eb",
                 imageAlt: "Beautiful beach in the Dominican republic.",
                 description: "Escape from winter."
             }
         ]
     },
-    {
-        country: "Switzerland",
-        imageUrl: "/countries/switzerland/ship.jpg",
+    "switzerland": {
+        countryName: "Switzerland",
+        imageUrl: "https://drive.google.com/uc?id=1zr0zUF6lupbcwmxPrNl-KO6b1EcMIyZ4",
         imageAlt: "Ship with swiss flag.",
         description: "Where breathtaking alpine landscapes meet precision craftsmanship, creating a timeless heaven for both nature enthusiasts and connoisseurs.",
         trips: [
             {
                 place: "Switzerland",
-                imageUrl: "/countries/switzerland/ship.jpg",
+                imageUrl: "https://drive.google.com/uc?id=1zr0zUF6lupbcwmxPrNl-KO6b1EcMIyZ4",
                 imageAlt: "Ship with swiss flag.",
                 description: "Hitchhiking adventure"
             }
         ]
     },
-]
+}
